@@ -1,6 +1,6 @@
 # Etude du complexe sRNO H/ACA
 
-Ce projet consiste à étudier le complexe sRNO H/ACA de Pyrococcus abyssi. Il a été réalisé dans le cadre de ma première année de master de bioinformatique.
+Ce projet consiste à étudier le complexe sRNO H/ACA de Pyrococcus abyssi. Il a été réalisé dans le cadre de ma première année de master de bioinformatique. Le compte-rendu de ce projet est disponible dans le fichier *CR_python.pdf*. Les graphes générés sont également disponibles.
 
 ## Lancer le programme
 
