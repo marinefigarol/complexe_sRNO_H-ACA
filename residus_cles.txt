@@ -1,0 +1,9 @@
+Residu n°	 Domaine	 Residu n°	 Domaine	 Fréquence
+	34			A3			33			B			0.0
+	100			A4			31			B			1.0
+	98			A4			30			B			0.97
+	6			A3			63			A4			0.972
+	41			A4			32			B			1.0
+	26			A3			65			A4			0.828
+	66			A4			41			A3			0.68
+	46			A4			25			B			0.988
